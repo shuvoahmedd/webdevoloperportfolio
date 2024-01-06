@@ -89,7 +89,7 @@ nav li{
     margin-top: 5px;
 }
 .about{
-    padding: 130px;
+    padding: 60px;
     border-radius: 10px;
     background: #d5d9f1;
     margin: 130px 0;
@@ -114,6 +114,31 @@ main{
     display: flex;
     justify-content: space-around;
     text-align: center;
-    line-height: 30px;
+    line-height: 5px;
 }
+#what-i-do-dec{
+    padding: 30px ;
+}
+.section-description{
+    text-align: center;
+}
+.footer{
+    background-color: blue;
+    color: #FFF8F3;
+    text-align: center;
+    margin-top: 900px;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-size: 20px;
+}
+.skill-container{
+    display: flex;
+}
+.skill-description{
 
+}
+.skill{
+    padding: 30px;
+}
