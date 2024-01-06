@@ -5,6 +5,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
     
 }
 .nav-title{
@@ -19,6 +20,7 @@ line-height: normal;
     color:blue;
 }
 .btn{
+    color: #FFF8F3;
     border-radius: 5px;
     background-color: blue;
     border: 0;
@@ -31,6 +33,11 @@ nav > ul{
     display: flex;
     align-items: center;
 }
+
+.header{
+    background-color: #FFF8F3;;
+}
+
 nav li{
     list-style: none;
     margin-right: 50px;
@@ -46,4 +53,13 @@ nav li{
 .li3{
     text-decoration: none;
     color: white;
+}
+.banner{
+    padding: 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile{
+    width: 584px;
+height: 676px;
 }
